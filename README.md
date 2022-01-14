@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🔭🔭🔭🔭🔭🔭 Hi, I'm Eric Nguyen and I'm Fullstack Developer.
+### ⚡⚡⚡⚡⚡⚡⚡   I’m currently learning Rust, Python
 
 <!--
 **duongnq2798/duongnq2798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
