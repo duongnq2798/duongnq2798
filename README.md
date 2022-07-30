@@ -6,6 +6,6 @@ Hello I'm Eric - Begin with new title Blockchain Developer
 
 2. Two hands 🔫
 
-    + Web 2
-    + Web 3
+    + `Web 2`
+    + `Web 3`
 
