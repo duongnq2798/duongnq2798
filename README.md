@@ -1,13 +1,10 @@
 Hello I'm Eric - Begin with new title Blockchain Developer
 
-# Skills
-
-## My couple: 
-
+1. My couple: 
     + `Javascript` + `Rust`
     + `Ethereum` | `Binance` | `Polygon` + `Solana`
 
-### Two hands 🔫
+2. Two hands 🔫
 
     + Web 2
     + Web 3
