@@ -1,11 +1,11 @@
-Hello I'm Eric - Begin with new title Blockchain Developer
+### Hello I'm `Nguyen Quoc Duong` - Begin with new title Blockchain Developer
 
-1. My couple: 
-    + `Javascript` + `Rust`
-    + `Ethereum` | `Binance` | `Polygon` + `Solana`
+# Stack: 
 
-2. Two hands 🔫
+#### Web3
+    + Ethereum: Binance, Polygon, Smart Contract, Solidity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat, Moralis.
+    + Binance Smart Chain: Smart Contract, Solidity, Web3.js, BEP20, BEP721, BEP1155
+    + Solana, Program, Rust, SPL Token, Anchor, Metaplex, Candy Machine V1/V2
 
-    + `Web 2`
-    + `Web 3`
-
+#### Web2
+    + MERN stack, Javascript, Typescript, Next, React, Rest API, GraphQL, Mysql, MongDB, PostgreSQL, Cassandra
