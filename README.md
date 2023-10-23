@@ -1,4 +1,4 @@
-### Hello I'm `Nguyen Quoc Duong` - Begin with new title Blockchain Developer
+### Hello I'm `Bistol Art Dev` - 
 
 ## Stack 
 
