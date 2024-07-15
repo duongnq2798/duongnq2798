@@ -1,4 +1,4 @@
-### Hello I'm `Bistol Art Dev` - 
+### Hello I'm `Duong` - 
 
 ## Stack 
 
